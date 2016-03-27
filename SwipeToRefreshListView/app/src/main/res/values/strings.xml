@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SwipeToRefreshListView</string>
+    <string-array name="cities">
+        <item>Rajasthan</item>
+        <item>Delhi</item>
+        <item>Punjab</item>
+        <item>Haryana</item>
+        <item>Bangalore</item>
+        <item>Mumbai</item>
+        <item>Hyderabad</item>
+    </string-array>
+</resources>
